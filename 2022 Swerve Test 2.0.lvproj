@@ -109,6 +109,7 @@ AddOutputFilter chunkFilter
 			<Item Name="modulo.vi" Type="VI" URL="../modulo.vi"/>
 			<Item Name="Swerve Math.vi" Type="VI" URL="../Swerve Math.vi"/>
 			<Item Name="SwerveDrive2.0.vi" Type="VI" URL="../SwerveDrive2.0.vi"/>
+			<Item Name="Swerve Rotation Math.vi" Type="VI" URL="../Swerve Rotation Math.vi"/>
 			<Item Name="Robot Global Data.vi" Type="VI" URL="../Robot Global Data.vi"/>
 			<Item Name="Teleop.vi" Type="VI" URL="../Teleop.vi"/>
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
@@ -119,6 +120,7 @@ AddOutputFilter chunkFilter
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
 				<Item Name="AddNamedSemaphorePrefix.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/AddNamedSemaphorePrefix.vi"/>
+				<Item Name="ADIS16470 Calibration Time.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/ADI/ADIS16470/Typedef/ADIS16470 Calibration Time.ctl"/>
 				<Item Name="ADIS16470 Command Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/ADI/ADIS16470/Typedef/ADIS16470 Command Type.ctl"/>
 				<Item Name="ADIS16470 Data.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/ADI/ADIS16470/Typedef/ADIS16470 Data.ctl"/>
 				<Item Name="ADIS16470 Device Reference.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/ADI/ADIS16470/Typedef/ADIS16470 Device Reference.ctl"/>
